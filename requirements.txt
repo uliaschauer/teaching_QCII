@@ -1,2 +1,3 @@
 pyscf
 appmode
+ipywidgets
