@@ -1,2 +1,2 @@
 appmode
-pyscf==1.7.1.post1
+pyscf==1.7.1
